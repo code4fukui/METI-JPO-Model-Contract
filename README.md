@@ -1,58 +1,56 @@
-# 「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けた、GitHub（ギットハブ）を用いた意見募集
+# METI-JPO Model Contracts for Open Innovation
 
-[![Markdown Lint](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml)
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-## 募集概要
+This repository hosts the draft revisions of the "Model Contracts for Promoting Open Innovation between R&D Startups and Corporations," developed by Japan's Ministry of Economy, Trade and Industry (METI) and the Japan Patent Office (JPO). It was used to conduct a public comment collection trial via GitHub to gather feedback for improving the contracts.
 
-### 応募いただきたい方
+## The Model Contracts
 
-特に、研究開発型スタートアップ・事業会社の知財・法務担当者の方。スタートアップ関係者（弁護士、ベンチャーキャピタルなど）の方。モデル契約書を実際に使われている方、興味を持たれている方。
+The model contracts are provided in two editions: **New Materials** and **Artificial Intelligence (AI)**. Each contract includes clause-by-clause commentary.
 
-### 募集内容
+| New Materials Edition                                                                                                                                                                                                                           | AI Edition                                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Non-Disclosure Agreement (NDA)**<br>[`1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md)         | **5. Non-Disclosure Agreement (NDA)**<br>[`5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md)             |
+| **2. Proof of Concept (PoC) Agreement**<br>[`2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md) | **6. Proof of Concept (PoC) Agreement**<br>[`6_モデル契約書v1_0_技術検証（PoC）契約書（AI編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/6_モデル契約書v1_0_技術検証（PoC）契約書（AI編）_逐条解説あり.md)     |
+| **3. Joint R&D Agreement**<br>[`3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md)         | **7. Joint R&D Agreement**<br>[`7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md)             |
+| **4. License Agreement**<br>[`4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md)             | **8. Usage Agreement**<br>[`8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md`](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md)                 |
 
-[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景
+*These links use an external Markdown viewer to properly render Japanese text.*
 
-* 交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
-* 応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
-* 具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](OPERATION_POLICY.md)を事前にご確認ください｡
+## Call for Contributions (Archived)
 
-#### モデル契約書
+The official public comment period for this project was from **May 17, 2023, to June 18, 2023**. This repository is now archived for public reference.
 
-* [1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md)
-* [2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md)
-* [3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md)
-* [4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md)
-* [5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md)
-* [6_モデル契約書v1_0_技術検証（PoC）契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/6_モデル契約書v1_0_技術検証（PoC）契約書（AI編）_逐条解説あり.md)
-* [7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md)
-* [8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md)
+The original goal was to gather feedback on the content and background of the contract articles, especially on clauses that often become points of contention during negotiations.
 
-### 応募方法
+### How to Contribute (Original Process)
 
-提案内容について、[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
+Contributions were submitted by creating a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with proposed changes.
 
-[具体的な送信方法はこちら](MANUAL.md)
+- **[Detailed submission instructions are available in MANUAL.md](MANUAL.md)**
+- All contributors were asked to review the [Operation Policy](OPERATION_POLICY.md) before posting to ensure that no specific cases or parties were identified.
 
-### 募集期間（予定）
+## Target Audience
 
-令和3年5月17日（月曜日）～6月18日（金曜日）
+This project is particularly relevant for:
+- Intellectual property and legal affairs personnel at R&D startups and large corporations.
+- Startup ecosystem stakeholders, including lawyers and venture capitalists.
+- Anyone who has used or is interested in these model contracts.
 
-## モデル契約書の概要
+## About this Project
 
-2020年度、経済産業省は特許庁と連携して、研究開発型スタートアップと事業会社の連携交渉する際に留意すべきポイントについて解説した[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)を策定しました。
+In fiscal year 2020, METI and the JPO developed the original [Model Contracts (New Materials & AI Editions)](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html) to serve as a reference for R&D startups and corporations during collaboration negotiations.
 
-今年度は、モデル契約書の更なる改善を目指し、以下のプロセスで改訂作業を実施します。
+To further improve the contracts, this project was launched to gather a wide range of feedback from both current and potential users. By using GitHub, we aimed to create an open and continuous dialogue with the community, allowing for more practical and responsive updates to the contracts.
 
-今回の改訂プロセスでは、モデル契約書のユーザー及び現在ユーザーではない方々とも広くコミュニケーションを行い、改善に向けたフィードバックを受けることを目的として、オープンな場で不特定多数が編集に携わることが出来るシステムの1つであるGitHubを用いた意見募集をトライアル実施します。
+This initiative represents a modern approach to policymaking, leveraging open-source principles to flexibly respond to changes in the business environment and the needs of innovators.
 
-![モデル契約書改定プロセス](https://user-images.githubusercontent.com/84115514/118421248-bedaf800-b6fb-11eb-846f-580a8eee51f5.png)
 
-## GitHubを用いることの意義
+![Model Contract Revision Process](https://user-images.githubusercontent.com/84115514/118421248-bedaf800-b6fb-11eb-846f-580a8eee51f5.png)
 
-社会変化のスピードが急激に加速した今日において、革新的なイノベーションを創出するためには、社会情勢の変化やプレーヤーの価値観の変化等に柔軟に対応しながら、政策の価値を最大化できる立案手法を検討するべきと考えます。
 
-政府が新たに戦略や方針等を策定する際には、有識者の御知見及び国民の御意見等を聴取した上で立案することが求められます。今までは、有識者委員会やパブリックコメントを通じて、必要な情報収集を実施してきましたが、今後は、既存の方法に加えて、様々なプレーヤーが継続的にフラットに意見を発信できるような仕組みを構築していくべきと考えます。
+*The opinions received during this trial were reviewed by the committee and used as reference material for the model contract revisions.*
 
-今回のモデル契約書の改訂においては、GitHubというツールを用いて、実際にモデル契約書を使用するユーザー等とコミュニケーションを行うことで、より実態に即した改善を目指すとともに、当該コミュニケーションが継続的に実施されることを期待しています。
+## License
 
-* 本トライアルで頂いた御意見に関しましては、検討委員会で精査し、モデル契約書改訂の検討材料とします。
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
